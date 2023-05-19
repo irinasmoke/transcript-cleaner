@@ -1,4 +1,4 @@
-#Teams Transcript Cleaner
+# Teams Transcript Cleaner
 
 This script takes transcripts from Teams meetings and cleans them up by (1) removing all timestamps and (2) replacing speaker names with alternate labels. The latter is helpful for removing PII.
 
